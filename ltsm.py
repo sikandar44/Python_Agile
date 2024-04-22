@@ -8,9 +8,13 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 def read_messages_from_file(file_path):
     messages = []
     with open(file_path, 'r') as file:
-        for line in file:
-            # Assuming each message is a single line in the text file
-            messages.append(line.strip())
+        # Read the entire file content
+        file_content = file.read()
+        # Use regular expression to find all messages within curly braces
+        message_matches = re.findall(r'\{(.*?)\}', file_content, re.DOTALL)
+        # Append each message to the list
+        for match in message_matches:
+            messages.append(match.strip())
     return messages
 
 
