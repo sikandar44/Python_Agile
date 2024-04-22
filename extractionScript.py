@@ -1,12 +1,10 @@
 import re
 import os
 
-# Define the regular expression patterns to match the log messages
 input_pattern = r'(\d{4}/\w+/\d{2}\s\d{2}:\d{2}:\d{2}\.\d+)\s(\w+)\sPORTEVENT\s(\w+\.ttcn):\d+\(function:(\w+)\)\sReceive\soperation\son\sport\s(\w+)\[(\d+)\]\ssucceeded,\smessage\sfrom\s(\d+):\s@variables\.(\w+)\s:\s{([\s\S]*?)\}\sid\s(\d+)'
 output_pattern = r'(\d{4}/\w+/\d{2}\s\d{2}:\d{2}:\d{2}\.\d+)\s(\d+)\sPORTEVENT\s(\w+\.ttcn):\d+\(function:(\w+)\)\sSent\son\ssipInternalPort\sto\s(\w+)\s@variables\.(\w+)\s:\s{([\s\S]*?)\}'
 
-# Set the path to the folder containing the log files
-log_folder = r"C:\Users\Huseyn Mirzayev\Desktop\Log Analysys data"
+log_folder = r"C:\Users\Huseyn Mirzayev\source\repos\Python_Agile"
 
 # Initialize a counter for the processed txt files
 num_processed_files = 0
