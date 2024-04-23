@@ -1,0 +1,256 @@
+at 2014/Oct/24 18:34:28.684126 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_UP_AND_RUNNING",
+        parameters := { 
+at 2014/Oct/24 18:34:28.696199 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_START_LISTENER"
+            
+at 2014/Oct/24 18:34:28.896146 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:28.912574 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:28.950857 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:28.969325 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.099071 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.117136 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.153138 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.173755 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.356341 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.392096 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.409881 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.444307 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.602111 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.717354 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.736241 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.832040 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.849153 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:29.983470 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:30.248592 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:30.268862 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:30.712241 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.187706 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.204090 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.240874 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.255944 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.304900 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.324290 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.899559 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 18:34:37.924371 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 18:34:38.290207 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_CLEAR_MESSAGES"
+            
+at 2014/Oct/24 18:34:38.939542 the component 849 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_IS_GOING_DOWN",
+        parameters := { 

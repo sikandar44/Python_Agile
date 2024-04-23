@@ -1,0 +1,160 @@
+at 2014/Oct/24 19:16:44.309995 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_UP_AND_RUNNING",
+        parameters := { 
+at 2014/Oct/24 19:16:44.323986 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_START_LISTENER"
+            
+at 2014/Oct/24 19:16:44.794242 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:44.813163 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:44.845350 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:44.865517 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.089247 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.108645 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.126218 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.144798 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.177407 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.202167 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:45.626106 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:46.687021 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:46.706253 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:47.286388 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:47.313413 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:47.350128 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_RECEIVE_MESSAGE"
+            
+at 2014/Oct/24 19:16:47.369247 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_SEND_SIP_MESSAGE"
+            
+at 2014/Oct/24 19:16:47.382175 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_DONE_WITH_SUCCESS",
+        parameters := {
+            {
+                parameterName := "COMMAND_EXECUTED",
+                parameterValue := "COMMAND_SIP_CLEAR_MESSAGES"
+            
+at 2014/Oct/24 19:16:48.047147 the component 1709 sent a message of type @internalPortMessageWithAspsSip to mtc with the body 
+    internalMessage := {
+        description := "COMPONENT_IS_GOING_DOWN",
+        parameters := { 
